@@ -1,0 +1,3 @@
+[submodule "production"]
+	path = production
+	url = git@github.com:pepemargla/CMS-Next-WP-Production.git
